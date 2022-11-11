@@ -1,7 +1,5 @@
 'use strict';
 
-import path from 'path';
-
 export const mode = 'development';
 export const entry = './src/index.js';
 export const output = {
